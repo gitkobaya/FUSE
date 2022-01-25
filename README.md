@@ -31,14 +31,14 @@ eclipseのjava版をダウンロードします。どのeclipseでもかまい�
 eclipseにgithubからチェックアウトしたfuse及びK7System2をインポートします。  
 各フォルダはそのままeclipseのプロジェクト形式になっているので、簡単に読み込めます。  
 
-3.  ビルドパスの確認
+3.  ビルドパスの確認  
 "パッケージエクスプローラー"の"FUSE"上で右クリックし、"プロパティ"を選択します。  
 "Javaのビルド・パス"を選択し、"ライブラリー"及び"プロジェクト"という項目で×のパスを修正します。  
 内容は以下の通りです。  
 - Fuse　　　gluegen-rt.jar, jog-all.jar, jruby.jar、K7System2  
 - K7System　gluegen-rt.jar, jog-all.jar  
 
-4.  ライブラリのダウンロード
+4.  ライブラリのダウンロード  
 gluegen-rt.jar、jog-all.jar( Java OpenGL(JOGL) )の最新版は  
 以下のサイトにあるjogamp-all-platforms.7zをダウンロードしてください。  
 　  
@@ -50,7 +50,7 @@ ruby.jarは以下のサイトにあります。1.7.*
 　  
 http://jruby.org/files/downloads/  
 
-4.  文字化けしている場合  
+5.  文字化けしている場合  
 "パッケージエクスプローラー"の"Fuse"上で右クリックし、プロパティを選択します。  
 "リソース"を選択し、"テキスト・ファイルのエンコード"という項目の"その他"を"UTF-8"あるいは"MS932"に変更してください。  
 逆の場合も同様です。K7Systemでも同様です。
