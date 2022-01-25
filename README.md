@@ -35,7 +35,7 @@ eclipseにgithubからチェックアウトしたfuse及びK7System2をインポ
 "パッケージエクスプローラー"の"FUSE"上で右クリックし、"プロパティ"を選択します。  
 "Javaのビルド・パス"を選択し、"ライブラリー"及び"プロジェクト"という項目で×のパスを修正します。  
 内容は以下の通りです。  
-- Fuse　　　gluegen-rt.jar, jog-all.jar, jruby.jar、K7System2  
+- Fuse　　　gluegen-rt.jar, jog-all.jar, jruby.jar, K7System2  
 - K7System　gluegen-rt.jar, jog-all.jar  
 
 4.  ライブラリのダウンロード  
@@ -85,14 +85,13 @@ K7Systemに搭載されているグラフィック処理エンジンの確認が
 
 ## 研究成果一覧
 FUSEを利用した研究成果は以下となります。  
-　  
+	
+Atsushi Kobayashi, Koji Suginuma, Masakazu Furuichi, "TRISim:TRIage Simulation System to Exploit and Assess Triage Operation for Hospital Managers - Development, Validation and Experiment," Computer Modeling in Engineering & Science (CMES), 113/ 2, 121-153, 2017.
+　  	
+Atsushi Kobayashi, Koji Suginuma, Masakazu Furuichi, "An Applicability of ABC Method to Inverse Simulation Application to Triage Simulation," Multi-Agent Systems and Agreement Technologies. EUMAS 2016, AT 2016. Lecture Notes in Computer Science 10207, 2016.
+
 竹多政裕, 瀧嶋悠, 倉本健介, 古市昌一, "マルチエージェントシミュレーション方式による歴史研究支援システムへの動的環境モデルの実装法と評価", 第77回全国大会講演論文集 2015(1), 641-642, 2015.
 
 田中和幸, 古市昌一, "小型無人航空機を用いた大規模災害時における避難誘導のMASによる有効性検証," 情報科学技術フォーラム講演論文集 14(4), 473-474, 2015.
 
 Kensuke Kuramoto, Masakazu Furuichi, Kazuo Kakuda, "Efficient Load-balancing Scheme for Multi-agent Simulation Systems" CMES(Computer Modeling in Engineering & Sciences) Vol.106, No.3, 169-185, 2015.
-	
-Atsushi Kobayashi, Koji Suginuma, Masakazu Furuichi, "An Applicability of ABC Method to Inverse Simulation Application to Triage Simulation," Multi-Agent Systems and Agreement Technologies. EUMAS 2016, AT 2016. Lecture Notes in Computer Science 10207, 2016.
-	
-Atsushi Kobayashi, Koji Suginuma, Masakazu Furuichi, "TRISim:TRIage Simulation System to Exploit and Assess Triage Operation for Hospital Managers - Development, Validation and Experiment," Computer Modeling in Engineering & Science (CMES), 113/ 2, 121-153, 2017.
-
