@@ -99,3 +99,5 @@ Kensuke Kuramoto, Masakazu Furuichi, Kazuo Kakuda, "Efficient Load-balancing Sch
 Kuramoto, K and Furuichi, M. "FUSE: A MULTI-AGENT SIMULATION ENVIRONMENT," Proc. of the 2013 Winter Simulation Conference, Washington D.C., USA, pp. 3982-3983, 2013
 
 Kuramoto, K. and Furuichi, M. "A Design and Preliminary Evaluation of Hierarchical Organizational Behavior Modeling Architecture," Proc. of JSST2012 International Conference on Simulation Technology, Kobe, Japan, pp. RS1–7, 2012.
+
+etc...  
