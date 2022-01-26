@@ -36,7 +36,7 @@ eclipseにgithubからチェックアウトしたfuse及びK7System2をインポ
 "Javaのビルド・パス"を選択し、"ライブラリー"及び"プロジェクト"という項目で×のパスを修正します。  
 内容は以下の通りです。  
 - Fuse　　　gluegen-rt.jar, jog-all.jar, jruby.jar, K7System2  
-- K7System　gluegen-rt.jar, jog-all.jar  
+- K7System2　gluegen-rt.jar, jog-all.jar  
 
 4.  ライブラリのダウンロード  
 gluegen-rt.jar、jog-all.jar( Java OpenGL(JOGL) )の最新版は  
