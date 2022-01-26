@@ -8,8 +8,8 @@
 
 ## 概要
 
-Furu-lab Unified Simulation Environmentの略で、  
-マルチエージェントシミュレーションを簡潔なソースコードにより実現することを目的としたjavaのライブラリです。  
+Furu-lab Unified Simulation Environmentの略で、マルチエージェントシミュレーションを  
+簡潔なソースコードにより実現することを目的としたjavaのライブラリです。  
 日本大学生産工学部数理情報工学科古市研究室において研究向けに開発されました。  
 
 ## できること
